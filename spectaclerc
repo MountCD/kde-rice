@@ -1,0 +1,9 @@
+[General]
+ocrLanguages=rus
+
+[ImageSave]
+lastImageSaveLocation=file:///home/mntcd/Pictures/Screenshots/Screenshot_20261022_173619.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts
